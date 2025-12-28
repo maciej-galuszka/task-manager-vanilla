@@ -1,8 +1,8 @@
-# Task Tracker 📝
+# Task manager 📝
 
-A simple, minimalistic task tracker built with HTML, CSS, and vanilla JavaScript.
+Task manager v1 – built with vanilla JavaScript. Add, complete, and delete tasks with persistent storage. A simple, minimalistic task manager built with HTML, CSS, and JavaScript.
 
-This project allows you to create tasks, mark them as completed, and delete them – all in a clean and responsive interface.
+This app allows you to create tasks, mark them as completed, and delete them – all in a clean and responsive interface.
 
 ---
 
