@@ -41,10 +41,10 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
+   git clone https://github.com/your-username/task-manager-vanilla.git
 2. Navigate to the project directory::
    ```bash
-   cd task-tracker
+   cd task-manager-vanilla
 3. Open index.html in your browser.
 
 No build tools or dependencies required – it’s 100% client-side!
